@@ -1,4 +1,4 @@
 Schedula
 
 Architecture: 
-![Project Screenshot](ER-diagram.pdf)   
+![Project Screenshot]((https://github.com/SamjithRaj/Schedula-Samjith/blob/main/ER-diagram.pdf?raw=true))   
