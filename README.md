@@ -4,4 +4,5 @@ Schedula
 
 
 Architecture: 
-![Project Screenshot]((https://github.com/SamjithRaj/Schedula-Samjith/blob/main/ER-diagram.pdf?raw=true))   
+<img width="2000" height="2048" alt="image" src="https://github.com/user-attachments/assets/f48de1fb-f713-45ed-8e35-e783f7dd2a45" />
+  
